@@ -11,3 +11,5 @@ We shall give so much credits to Sebastiaan Höppner and his colleagues, as we r
 https://doi.org/10.1016/j.ejor.2018.11.072)
 
 We refered to his github page as well, to learn the implementation of the ProfTree algorithm for constructing profit driven decision trees for customer churn prediction. https://github.com/SebastiaanHoppner/ProfTree
+
+Welcome to any further discussions on this topic and our project :)
